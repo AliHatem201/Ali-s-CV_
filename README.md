@@ -13,19 +13,19 @@
 
         body {
             font-family: Arial, sans-serif;
-            background-color: #121212;
-            color: #00bcd4;
+            background-color: #f4f4f4;
+            color: #333;
             line-height: 1.6;
         }
 
         a {
             text-decoration: none;
-            color: #03a9f4;
+            color: #2196f3;
         }
 
         header {
-            background: linear-gradient(135deg, #1c1c1c, #2196f3);
-            color: white;
+            background: linear-gradient(135deg, #ffffff, #81d4fa);
+            color: #333;
             text-align: center;
             padding: 50px 20px;
         }
@@ -47,20 +47,20 @@
             margin: 0 15px;
             font-size: 1.1rem;
             font-weight: bold;
-            color: #b3e5fc;
+            color: #333;
         }
 
         nav a:hover {
-            color: #81d4fa;
+            color: #0288d1;
         }
 
         main {
             max-width: 1000px;
             margin: 30px auto;
             padding: 20px;
-            background: #1e1e1e;
+            background: #ffffff;
             border-radius: 8px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.7);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         }
 
         section {
@@ -69,7 +69,7 @@
 
         h2 {
             font-size: 2rem;
-            color: #81d4fa;
+            color: #0288d1;
             margin-bottom: 15px;
             position: relative;
         }
@@ -79,7 +79,7 @@
             display: block;
             width: 60px;
             height: 3px;
-            background: #81d4fa;
+            background: #0288d1;
             margin-top: 5px;
         }
 
@@ -89,14 +89,14 @@
         }
 
         ul li {
-            background: #3c4a60;
+            background: #e1f5fe;
             margin: 10px 0;
             padding: 15px;
             border-radius: 8px;
             display: flex;
             align-items: center;
             gap: 10px;
-            border-left: 5px solid #03a9f4;
+            border-left: 5px solid #2196f3;
             transition: transform 0.2s;
         }
 
@@ -106,8 +106,8 @@
 
         .btn {
             display: inline-block;
-            background: #03a9f4;
-            color: #121212;
+            background: #2196f3;
+            color: #ffffff;
             padding: 10px 20px;
             margin-top: 10px;
             border-radius: 5px;
