@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -195,6 +194,12 @@
                 <li>Wonders of Egypt</li>
                 <li>Decode Academy</li>
                 <li>Dino World</li>
+                <li>Enviroment Friend</li>
+                <li>Smart Home</li>
+                <li>Helper</li>
+                <li>Monorail App (For competition)</li>
+                <li>A decent life App (For competition)</li>
+                <li>100 million health App (For competition)</li>
             </ul>
         </section>
 
